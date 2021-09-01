@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>smatBot</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Url of the chat bot UI</description>
+      <initValue>'https://www.smatbot.com/smatbot/All_features?id=4174'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Chrome driver window object storing at run time.</description>
+      <initValue>[:]</initValue>
+      <name>chromeDriverObjectMap</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
