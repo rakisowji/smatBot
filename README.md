@@ -1,4 +1,4 @@
-### Katalon Studio
+### SmatBot Assignment
 [Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing.
  
 Download Katalon studio and Have a clone of this repository.
