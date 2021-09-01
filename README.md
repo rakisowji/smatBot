@@ -10,4 +10,4 @@ Through Link, paste this link
 https://www.getpostman.com/collections/efae10bd3d79d1b88b64
  click on Import
 On Top Right, you have No Environment.
-Create an environment with values mentioned below.
+Create an environment with values mentioned in SmatBot.postman_collection.json.
